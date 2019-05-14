@@ -25,12 +25,15 @@ using System.Threading.Tasks;
     
 */
 
+
 namespace C_Shap_1
 {
     class DataType
     {
+        /*
         static void Main(string[] args)
         {
+
             // Bool
             bool b = true;
 
@@ -39,7 +42,7 @@ namespace C_Shap_1
             int i = 2147483647;
             long l = 1234L;         // L sfuffix
             float f = 123.45F;      // F suffix
-            double d1 = 123.45;     
+            double d1 = 123.45;
             double d2 = 123.45D;    // D suffix
             decimal d = 123.45M;    // M suffix
 
@@ -81,5 +84,7 @@ namespace C_Shap_1
             int k = j.Value;
 
         }
+        */
     }
 }
+
