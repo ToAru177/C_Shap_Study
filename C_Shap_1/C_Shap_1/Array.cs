@@ -23,7 +23,7 @@ namespace C_Shap_1
     {
         
     }
-
+    /*
     class Program
     {
         static void Main(string[] args)
@@ -42,6 +42,7 @@ namespace C_Shap_1
 
             return sum;
         }
+        */
 
         /*
         static void Main(string[] args)
@@ -88,6 +89,7 @@ namespace C_Shap_1
             // 3차원 배열 선언
             string[,,] Cubes;
         }
-        */
+        
     }
+    */
 }
